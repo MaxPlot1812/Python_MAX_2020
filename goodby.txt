@@ -1,3 +1,5 @@
-print('goodby you');
-print('goodby everyone');
-print('goodbye all');
+print('goodby you;');
+print('goodby everyone;');
+print('goodbye all;');
+print('goodby you;');
+print('goodby everyone;');

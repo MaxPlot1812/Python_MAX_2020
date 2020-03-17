@@ -1,3 +1,5 @@
-print("hello world!");
-print ('hello everybody');
-print('goodby all');
+print("hello world!;");
+print ('hello everybody;');
+print('goodby all;');
+print("hello world!;");
+print ('hello everybody;');
