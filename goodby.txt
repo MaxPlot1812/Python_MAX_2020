@@ -1,2 +1,2 @@
-print('goodby you');
-print('goodby everyone');
+print('goodby you;');
+print('goodby everyone;');
